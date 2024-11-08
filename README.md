@@ -45,7 +45,7 @@ An analysis of e-commerce sales data using SQL, Power BI, and Excel, focusing on
 2. **Normalization**:
    - Split data into distinct tables for Orders, Products, Region and Customers.
 
-**Files**: Click 👉[here](https://docs.google.com/spreadsheets/d/1zhJcE2nSJrCERH4MOQ4pmXq_e6hNHVt3/edit?usp=sharing&ouid=114563417088593971734&rtpof=true&sd=true))👈folder for cleaned Excel files.
+**Files**: Click 👉[here](https://docs.google.com/spreadsheets/d/1zhJcE2nSJrCERH4MOQ4pmXq_e6hNHVt3/edit?usp=sharing&ouid=114563417088593971734&rtpof=true&sd=true)👈 for cleaned Excel files.
 
 ## SQL Analysis
 - **Date Dimension Table**: Populated to support time-series analysis.
@@ -57,7 +57,7 @@ An analysis of e-commerce sales data using SQL, Power BI, and Excel, focusing on
 2. **Profit Margins**: Calculation of profit by product category, profit by region and customer segments,
 3. **Customer Segmentation**: Determined sales by each customer, Average Order Value by Customer Segment, how often customers make repeat purchases and customer segments with highest purchase frequency
 
-**SQL Scripts**: Click 👉[here](https://drive.google.com/file/d/1uIO7j8wKBYpNeZq6XTf_AGe7_B3NbxvM/view?usp=sharing)👈folder.
+**SQL Scripts**: Click 👉[here] (https://drive.google.com/file/d/1uIO7j8wKBYpNeZq6XTf_AGe7_B3NbxvM/view?usp=sharing)👈.
 
 ## Power BI Visualization
 Built interactive dashboards to showcase trends and insights:
@@ -65,7 +65,7 @@ Built interactive dashboards to showcase trends and insights:
 - **Profit Margins**: Analysis by category, Profit Performance by region, Profits by Sub-category.
 - **Customer Segmentation**: Insights by region, customer segment sales performance, top 10 best performing customers,customer segment with highest purchase frequency and average order by customer segment.
 
-**Power BI File**: `.pbix` file click 👉[here](https://drive.google.com/file/d/1TmBDHX8B5GFZKp-y7unGjYVibrXIVyQn/view?usp=sharing) )👈.
+**Power BI File**: `.pbix` file Download 👉[here](https://drive.google.com/file/d/1TmBDHX8B5GFZKp-y7unGjYVibrXIVyQn/view?usp=sharing)👈.
 
 ## Insights and Recommendations
 
