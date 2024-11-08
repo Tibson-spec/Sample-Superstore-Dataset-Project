@@ -45,7 +45,7 @@ An analysis of e-commerce sales data using SQL, Power BI, and Excel, focusing on
 2. **Normalization**:
    - Split data into distinct tables for Orders, Products, Region and Customers.
 
-**Files**: Click 👉[here] `Sample Suprstore Dataset Project` folder for cleaned Excel files.
+**Files**: Click 👉[here](https://docs.google.com/spreadsheets/d/1zhJcE2nSJrCERH4MOQ4pmXq_e6hNHVt3/edit?usp=sharing&ouid=114563417088593971734&rtpof=true&sd=true))👈folder for cleaned Excel files.
 
 ## SQL Analysis
 - **Date Dimension Table**: Populated to support time-series analysis.
