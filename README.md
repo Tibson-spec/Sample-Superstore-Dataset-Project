@@ -57,7 +57,7 @@ An analysis of e-commerce sales data using SQL, Power BI, and Excel, focusing on
 2. **Profit Margins**: Calculation of profit by product category, profit by region and customer segments,
 3. **Customer Segmentation**: Determined sales by each customer, Average Order Value by Customer Segment, how often customers make repeat purchases and customer segments with highest purchase frequency
 
-**SQL Scripts**: Click 👉[here] (https://drive.google.com/file/d/1uIO7j8wKBYpNeZq6XTf_AGe7_B3NbxvM/view?usp=sharing)👈.
+**SQL Scripts**: Click 👉[here](https://drive.google.com/file/d/1uIO7j8wKBYpNeZq6XTf_AGe7_B3NbxvM/view?usp=sharing)👈.
 
 ## Power BI Visualization
 Built interactive dashboards to showcase trends and insights:
