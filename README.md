@@ -57,7 +57,7 @@ An analysis of e-commerce sales data using SQL, Power BI, and Excel, focusing on
 2. **Profit Margins**: Calculation of profit by product category, profit by region and customer segments,
 3. **Customer Segmentation**: Determined sales by each customer, Average Order Value by Customer Segment, how often customers make repeat purchases and customer segments with highest purchase frequency
 
-**SQL Scripts**: Located in the `https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Sample%20Superstore%20Project/Sample%20superstore%20query.sql` folder.
+**SQL Scripts**: Located in the `https://drive.google.com/file/d/1uIO7j8wKBYpNeZq6XTf_AGe7_B3NbxvM/view?usp=sharing` folder.
 
 ## Power BI Visualization
 Built interactive dashboards to showcase trends and insights:
