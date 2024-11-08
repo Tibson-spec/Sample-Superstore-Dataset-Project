@@ -45,7 +45,7 @@ An analysis of e-commerce sales data using SQL, Power BI, and Excel, focusing on
 2. **Normalization**:
    - Split data into distinct tables for Orders, Products, Region and Customers.
 
-**Files**: See `Data` folder for cleaned Excel files.
+**Files**: See `https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/tree/main/Sample%20Superstore%20Project` folder for cleaned Excel files.
 
 ## SQL Analysis
 - **Date Dimension Table**: Populated to support time-series analysis.
