@@ -65,7 +65,7 @@ Built interactive dashboards to showcase trends and insights:
 - **Profit Margins**: Analysis by category, Profit Performance by region, Profits by Sub-category.
 - **Customer Segmentation**: Insights by region, customer segment sales performance, top 10 best performing customers,customer segment with highest purchase frequency and average order by customer segment.
 
-**Power BI File**: `.pbix` file is in the `Sample Superstore Dataset Project` folder.
+**Power BI File**: `.pbix` file click 👉[here](https://drive.google.com/file/d/1TmBDHX8B5GFZKp-y7unGjYVibrXIVyQn/view?usp=sharing) )👈.
 
 ## Insights and Recommendations
 
