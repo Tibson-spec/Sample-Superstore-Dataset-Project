@@ -69,7 +69,9 @@ Built interactive dashboards to showcase trends and insights:
 ![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Profit%20Performance%20by%20Region.PNG?raw=true)
 
 
+
 ![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Profitability%20across%20product%20category.PNG?raw=true)
+
 
 
 ![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Total%20profit%20by%20subcategory.PNG?raw=true)
