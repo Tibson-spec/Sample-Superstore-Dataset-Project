@@ -81,6 +81,12 @@ Built interactive dashboards to showcase trends and insights:
 
 ![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Sample%20superstore%20Images/top%2010%20customer.PNG?raw=true)
 
+
+
+![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Sample%20superstore%20Images/segment%20sales%20performance.PNG?raw=true)
+
+
+
 **Power BI File**: `.pbix` file Download 👉[here](https://drive.google.com/file/d/1TmBDHX8B5GFZKp-y7unGjYVibrXIVyQn/view?usp=sharing)👈.
 
 ## Insights and Recommendations
