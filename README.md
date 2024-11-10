@@ -1,7 +1,7 @@
 # Sample-Superstore-Dataset-Project
 ## E-commerce Sales Analysis Project
 
-# Project Summary
+## Project Summary
 An analysis of e-commerce sales data using SQL, Power BI, and Excel, focusing on uncovering sales trends, profitability insights, and customer behavior. Key findings support strategic recommendations for promotions, inventory planning, and cost control.
 
 ## Table of Contents
