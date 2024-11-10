@@ -94,7 +94,7 @@ Built interactive dashboards to showcase trends and insights:
 ## Insights and Recommendations
 
 1. **Seasonal Promotions**  
-   - Insight: Q4 sales peak; Q2 needs discounts to maintain volume.
+   - Insight: Q4 have the highest sales peak; Q2 needs to introduce discounts to maintain sales volume.
   
 2. **Profit Optimization**  
    - Insight: Improve margins on low-profit items by renegotiating or adjusting prices.
