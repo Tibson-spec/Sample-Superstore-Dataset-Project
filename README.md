@@ -79,14 +79,16 @@ Built interactive dashboards to showcase trends and insights:
 
 - **Customer Segmentation**: Insights by region, customer segment sales performance, top 10 best performing customers,customer segment with highest purchase frequency and average order by customer segment.
 
-![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Sample%20superstore%20Images/top%2010%20customer.PNG?raw=true)
+## ![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Sample%20superstore%20Images/top%2010%20customer.PNG?raw=true)
 
 
 
 ## ![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Sample%20superstore%20Images/segment%20sales%20performance.PNG?raw=true)
 
 
-## ![Image Alt]
+## ![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Sample%20superstore%20Images/highest%20purchase.PNG?raw=true)
+
+
 **Power BI File**: `.pbix` file Download 👉[here](https://drive.google.com/file/d/1TmBDHX8B5GFZKp-y7unGjYVibrXIVyQn/view?usp=sharing)👈.
 
 ## Insights and Recommendations
