@@ -62,7 +62,8 @@ An analysis of e-commerce sales data using SQL, Power BI, and Excel, focusing on
 ## Power BI Visualization
 Built interactive dashboards to showcase trends and insights:
 - **Sales Trends**: Monthly and quarterly trends.
-- ![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Sales%20ttrend.JPG?raw=true)
+- ![Image Alt](Monthly and quarterly Sales Trend.png)
+- 
 - **Profit Margins**: Analysis by category, Profit Performance by region, Profits by Sub-category.
 - **Customer Segmentation**: Insights by region, customer segment sales performance, top 10 best performing customers,customer segment with highest purchase frequency and average order by customer segment.
 
