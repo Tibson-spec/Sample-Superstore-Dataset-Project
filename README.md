@@ -69,6 +69,11 @@ Built interactive dashboards to showcase trends and insights:
 ![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Profit%20Performance%20by%20Region.PNG?raw=true)
 Profit Performance by Region
 
+![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Profitability%20across%20product%20category.PNG?raw=true)
+Profitability Insight Across Product Category
+
+
+
 - **Customer Segmentation**: Insights by region, customer segment sales performance, top 10 best performing customers,customer segment with highest purchase frequency and average order by customer segment.
 
 **Power BI File**: `.pbix` file Download 👉[here](https://drive.google.com/file/d/1TmBDHX8B5GFZKp-y7unGjYVibrXIVyQn/view?usp=sharing)👈.
