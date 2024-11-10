@@ -66,7 +66,8 @@ Built interactive dashboards to showcase trends and insights:
 
 - **Profit Margins**: Analysis by category, Profit Performance by region, Profits by Sub-category.
 
-![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Monthly%20and%20quarterly%20Sales%20Trend.png?raw=true)
+![Image Alt](https://github.com/Tibson-spec/Sample-Superstore-Dataset-Project/blob/main/Profit%20Performance%20by%20Region.PNG?raw=true)
+Profit Performance by Region
 
 - **Customer Segmentation**: Insights by region, customer segment sales performance, top 10 best performing customers,customer segment with highest purchase frequency and average order by customer segment.
 
